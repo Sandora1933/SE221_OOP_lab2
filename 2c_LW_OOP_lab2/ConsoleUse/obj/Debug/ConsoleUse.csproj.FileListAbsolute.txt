@@ -1,0 +1,11 @@
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\ConsoleUse.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\ConsoleUse.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\MyClassLibrary.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\MyDataStructures.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\MyClassLibrary.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\bin\Debug\MyDataStructures.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\obj\Debug\ConsoleUse.csprojAssemblyReference.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\obj\Debug\ConsoleUse.csproj.CoreCompileInputs.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\obj\Debug\ConsoleUse.csproj.CopyComplete
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\obj\Debug\ConsoleUse.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\ConsoleUse\obj\Debug\ConsoleUse.pdb

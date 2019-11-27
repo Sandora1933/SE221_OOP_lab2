@@ -1,0 +1,14 @@
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\2c_LW_OOP_lab2.exe.config
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\2c_LW_OOP_lab2.exe
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\2c_LW_OOP_lab2.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\MyClassLibrary.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\MyClassLibrary.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\obj\Debug\2c_LW_OOP_lab2.csprojAssemblyReference.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\obj\Debug\2c_LW_OOP_lab2.csproj.CoreCompileInputs.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\obj\Debug\2c_LW_OOP_lab2.csproj.CopyComplete
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\obj\Debug\2c_LW_OOP_lab2.exe
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\obj\Debug\2c_LW_OOP_lab2.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\MyDataStructures.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\MyDataStructures.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\ConsoleUse.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\2c_LW_OOP_lab2\bin\Debug\ConsoleUse.pdb

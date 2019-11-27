@@ -1,0 +1,9 @@
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\obj\Debug\MyDataStructures.csprojAssemblyReference.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\obj\Debug\MyDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\bin\Debug\MyDataStructures.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\bin\Debug\MyDataStructures.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\bin\Debug\MyClassLibrary.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\bin\Debug\MyClassLibrary.pdb
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\obj\Debug\MyDataStructures.csproj.CopyComplete
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\obj\Debug\MyDataStructures.dll
+C:\Users\vlad8\source\repos\2c_LW_OOP_lab2\MyDataStructures\obj\Debug\MyDataStructures.pdb
